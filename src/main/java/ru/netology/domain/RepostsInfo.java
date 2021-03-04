@@ -2,7 +2,7 @@ package ru.netology.domain;
 
 public class RepostsInfo {
     private int count;           //счетчик
-    private boolean canRepost;   //можно сделать репост
+    private boolean canRepost;
 
     public int getCount() {
         return count;
